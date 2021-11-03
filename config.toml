@@ -18,14 +18,14 @@ disableScrollToTop = false
 
 [params.label]
 text = "Home"
-icon = "/profile.png"
+icon = "/Headshot.jpeg"
 iconHeight = 24
 
 [params.profileMode]
 enabled = true
 title = "Brandon Bolling"
 subtitle = "A website containing my experiences"
-imageUrl = "profile.png"
+imageUrl = "Headshot.jpeg"
 imageWidth = 120
 imageHeight = 120
 
